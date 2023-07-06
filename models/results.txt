@@ -1,0 +1,30 @@
+------------------------------------
+Base XGBoost
+------------------------------------
+
+Average Accuracy: 0.7308212835374143
+Min Accuracy: 0.3774844989854248
+Max Accuracy: 0.9071400539213751
+
+Average Precision: 0.6728277757817096
+Min Precision: 0.08988858256055048
+Max Precision: 0.9166972487077099
+
+Average Recall: 0.9545593472347379
+Min Recall: 0.6413329399134895
+Max Recall: 0.9989671760045274
+
+------------------------------------
+XGBoostTime
+------------------------------------
+Average Accuracy: 0.7768669843369755
+Min Accuracy: 0.5217104777946694
+Max Accuracy: 0.8820032702288355
+
+Average Precision: 0.7690375248467849
+Min Precision: 0.18550871057573992
+Max Precision: 0.9212579451431663
+
+Average Recall: 0.8125244601748335
+Min Recall: 0.4021046422971243
+Max Recall: 0.9768490050109246
